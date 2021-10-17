@@ -1,5 +1,6 @@
 NOTE:
-    - This is just a simple folder template that you can follow when starting your first Web Development Project.
+This is just a simple folder template that you can follow when starting your first Web Development Project.
+It uses python for backend web development using the Flask library to communicate with your frontend.
 
 Files and Folders that are needed:
 - Setup.py(Python Backend)
